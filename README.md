@@ -18,7 +18,7 @@ Add-on that allows you to swap the materials of selected objects based on inform
 
 ## Installation
 
-1. Download the ["CSV_Material_Swapper.zip"](CSV_Material_Swapper.py) file.
+1. Download the ["CSV_Material_Swapper.py"](CSV_Material_Swapper.py) file.
 2. Launch Blender and go to **Edit > Preferences > Add-ons**.
 3. Click on the "Install" button and navigate to the downloaded file.
 4. Select the file and click "Install Add-on".
